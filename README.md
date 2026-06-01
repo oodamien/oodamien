@@ -1,3 +1,3 @@
 ### Hi 👋
 
-I'm a Lead Front End Developer at Theta Travel.
+I'm a Lead Dev. at Travel Tech Factory.
